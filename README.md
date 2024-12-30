@@ -6,3 +6,8 @@ Langkah-langkah untuk Import file nya
 5. Pilih file yang ingin diimport.
 6. Klik "Buka" atau "Import".
 7. Tunggu proses import selesai.
+
+Anggota kelompok 
+1. Fauzan zaki al-anshori
+2. Ahmad Khoiruridho
+3. Aria Nugroho
